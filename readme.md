@@ -13,8 +13,11 @@ php fetch
 将你的引用地址修改为
 原来的
 url("https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i");
+
 修改为
+
 url("poppins.css");
+
 
 即可!
 Poppins 为你调用功能的字体名称,下载后的字体样式文件名统一小写, 实际的名称和路径根据你的实际修改即可
